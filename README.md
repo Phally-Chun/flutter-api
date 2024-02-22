@@ -1,66 +1,206 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Example Certification Projects
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+## Responsive Web Design
 
-## About Laravel
+- Tribute Page
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+  - [Project Description](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
+  - [Example project](https://tribute-page.freecodecamp.rocks/)
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+- Survey Form
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+  - [Project Description](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
+  - [Example Project](https://survey-form.freecodecamp.rocks/)
 
-## Learning Laravel
+- Product Landing Page
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+  - [Project Description](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
+  - [Example Project](https://product-landing-page.freecodecamp.rocks/)
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+- Technical Documentation Page
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+  - [Project Description](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page)
+  - [Example Project](https://technical-documentation-page.freecodecamp.rocks/)
 
-## Laravel Sponsors
+- Personal Portfolio
+  - [Project Description](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage)
+  - [Example Project](https://personal-portfolio.freecodecamp.rocks/)
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+## JavaScript Algorithms and Data Structures
 
-### Premium Partners
+- Palindrome Checker
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+  - [Project Description](https://www.freecodecamp.org/learn/2022/javascript-algorithms-and-data-structures/palindrome-checker-project/build-a-palindrome-checker)
+  - [Example project](https://palindrome-checker.freecodecamp.rocks/)
 
-## Contributing
+- Roman Numeral Converter
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+  - [Project Description](https://www.freecodecamp.org/learn/2022/javascript-algorithms-and-data-structures/roman-numeral-converter-project/build-a-roman-numeral-converter)
+  - [Example Project](https://roman-numeral-converter.freecodecamp.rocks/)
 
-## Code of Conduct
+- Telephone Number Validator
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+  - [Project Description](https://www.freecodecamp.org/learn/2022/javascript-algorithms-and-data-structures/telephone-number-validator-project/build-a-telephone-number-validator)
+  - [Example Project](https://telephone-number-validator.freecodecamp.rocks/)
 
-## Security Vulnerabilities
+- Cash Register
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+  - [Project Description](https://www.freecodecamp.org/learn/2022/javascript-algorithms-and-data-structures/cash-register-project/build-a-cash-register)
+  - [Example Project](https://cash-register.freecodecamp.rocks/)
 
-## License
+- Pokémon Search App
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+  - [Project Description](https://www.freecodecamp.org/learn/2022/javascript-algorithms-and-data-structures/pokemon-search-app-project/build-a-pokemon-search-app)
+  - [Example Project](https://pokemon-search-app.freecodecamp.rocks/)
+
+## Data Visualization
+
+- Bar Chart
+
+  - [Project Description](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-bar-chart)
+  - [Example Project](https://bar-chart.freecodecamp.rocks/)
+
+- Scatterplot Graph
+
+  - [Project Description](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-scatterplot-graph)
+  - [Example Project](https://scatterplot-graph.freecodecamp.rocks/)
+
+- Heat Map
+
+  - [Project Description](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-heat-map)
+  - [Example Project](https://heat-map.freecodecamp.rocks/)
+
+- Choropleth Map
+  - [Project Description](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-choropleth-map)
+  - [Example Project](https://choropleth-map.freecodecamp.rocks/)
+- Treemap Diagram
+  - [Project Description](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-treemap-diagram)
+  - [Example Project](https://treemap-diagram.freecodecamp.rocks/)
+
+## APIs and Microservices
+
+- Timestamp
+
+  - [Project description](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice)
+  - [Example project](https://timestamp-microservice.freecodecamp.rocks/)
+
+- Request Header Parser
+
+  - [Project description](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/request-header-parser-microservice)
+  - [Example project](https://request-header-parser-microservice.freecodecamp.rocks/)
+
+- URL Shortener
+
+  - [Project description](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/url-shortener-microservice)
+  - [Example project](https://url-shortener-microservice.freecodecamp.rocks/)
+
+- Exercise Tracker
+
+  - [Project description](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/exercise-tracker)
+  - [Example project](https://exercise-tracker.freecodecamp.rocks/)
+
+- File Metadata
+  - [Project description](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/file-metadata-microservice)
+  - [Example project](https://file-metadata-microservice.freecodecamp.rocks/)
+
+## Quality Assurance
+
+- Metric-Imperial Converter
+
+  - [Project description](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/metric-imperial-converter)
+  - [Example project](https://metric-imperial-converter.freecodecamp.rocks/)
+
+- Issue Tracker
+
+  - [Project description](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/issue-tracker)
+  - [Example project](https://issue-tracker.freecodecamp.rocks/)
+
+- Personal Library
+
+  - [Project description](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/personal-library)
+  - [Example project](https://personal-library.freecodecamp.rocks/)
+
+- Sudoku Solver
+
+  - [Project description](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/sudoku-solver)
+  - [Example project](https://sudoku-solver.freecodecamp.rocks/)
+
+- American British Translator
+  - [Project description](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/american-british-translator)
+  - [Example project](https://american-british-translator.freecodecamp.rocks/)
+
+## Information Security
+
+- Stock Price Checker
+
+  - [Project description](https://www.freecodecamp.org/learn/information-security/information-security-projects/stock-price-checker)
+  - [Example project](https://stock-price-checker.freecodecamp.rocks/)
+
+- Anonymous Message Board
+
+  - [Project description](https://www.freecodecamp.org/learn/information-security/information-security-projects/anonymous-message-board)
+  - [Example project](https://anonymous-message-board.freecodecamp.rocks/)
+
+- Secure Real Time Multiplayer Game
+  - [Project description](https://www.freecodecamp.org/learn/information-security/information-security-projects/secure-real-time-multiplayer-game)
+  - [Example project](https://secure-real-time-multiplayer-game.freecodecamp.rocks/)
+
+## Coding Interview Prep
+
+- Build a Pinterest Clone
+
+  - [Project description](https://www.freecodecamp.org/learn/coding-interview-prep/take-home-projects/build-a-pinterest-clone)
+  - [Example project](https://build-a-pinterest-clone.freecodecamp.rocks/)
+
+- Chart the Stock Market
+
+  - [Project description](https://www.freecodecamp.org/learn/coding-interview-prep/take-home-projects/chart-the-stock-market)
+  - [Landing page](https://chart-the-stock-market.freecodecamp.rocks/)
+
+- Image Search Abstraction Layer
+
+  - [Project description](https://www.freecodecamp.org/learn/coding-interview-prep/take-home-projects/build-an-image-search-abstraction-layer)
+  - [Landing page](https://image-search-abstraction-layer.freecodecamp.rocks/)
+
+- P2P Video Chat Application
+
+  - [Project description](https://www.freecodecamp.org/learn/coding-interview-prep/take-home-projects/p2p-video-chat-application)
+  - [Example project](https://p2p-video-chat-application.freecodecamp.rocks/)
+
+- Manage a Book Trading Club
+
+  - [Project description](https://www.freecodecamp.org/learn/coding-interview-prep/take-home-projects/manage-a-book-trading-club)
+  - [Example project](https://manage-a-book-trading-club.freecodecamp.rocks/)
+
+- Voting App
+  - [Project description](https://www.freecodecamp.org/learn/coding-interview-prep/take-home-projects/build-a-voting-app)
+  - [Landing page](https://voting-app.freecodecamp.rocks/)
+
+## APIs and Proxies
+
+### Main Curriculum
+
+- PokéAPI Proxy
+
+  - [Project description](https://www.freecodecamp.org/learn/2022/javascript-algorithms-and-data-structures/pokemon-search-app-project/build-a-pokemon-search-app)
+  - [Landing page](https://pokeapi-proxy.freecodecamp.rocks/)
+
+- Stock Price Checker Proxy
+  - [Project description](https://www.freecodecamp.org/learn/information-security/information-security-projects/stock-price-checker)
+  - [Landing page](https://stock-price-checker-proxy.freecodecamp.rocks/)
+
+### Take Home Projects
+
+- Build a freeCodeCamp Forum Homepage Proxy
+
+  - [Project description](https://www.freecodecamp.org/learn/coding-interview-prep/take-home-projects/build-a-freecodecamp-forum-homepage)
+  - [Landing page](https://forum-proxy.freecodecamp.rocks/)
+
+- Show the Local Weather API Proxy
+
+  - [Project description](https://www.freecodecamp.org/learn/coding-interview-prep/take-home-projects/show-the-local-weather)
+  - [Landing page](https://weather-proxy.freecodecamp.rocks/)
+
+- Use the Twitch JSON API Proxy
+  - [Project description](https://www.freecodecamp.org/learn/coding-interview-prep/take-home-projects/use-the-twitch-json-api)
+  - [Landing page](https://twitch-proxy.freecodecamp.rocks/)

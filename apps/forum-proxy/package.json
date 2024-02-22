@@ -1,0 +1,19 @@
+{
+  "name": "fcc-forum-proxy",
+  "version": "0.0.1",
+  "description": "A proxy for the fCC forum",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "PORT=3005 mocha --exit --ui tdd tests/"
+  },
+  "dependencies": {
+    "chai": "4.4.1",
+    "chai-http": "4.4.0",
+    "cors": "2.8.5",
+    "dotenv": "14.3.2",
+    "express": "4.18.2",
+    "mocha": "9.2.2",
+    "node-fetch": "3.3.1"
+  }
+}
