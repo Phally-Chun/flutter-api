@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@babel/core": "7.23.9",
+    "@babel/core": "7.26.10",
     "@babel/preset-env": "7.23.9",
     "@babel/preset-react": "7.23.3",
     "@rollup/plugin-babel": "6.0.4",
@@ -33,7 +33,7 @@
     "react-masonry-component": "6.3.0"
   },
   "devDependencies": {
-    "@babel/core": "7.23.9",
+    "@babel/core": "7.26.10",
     "@babel/preset-env": "7.23.9",
     "@babel/preset-react": "7.23.3",
     "@rollup/plugin-babel": "6.0.4",
