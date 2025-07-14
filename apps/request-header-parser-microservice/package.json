@@ -9,11 +9,11 @@
   },
   "dependencies": {
     "chai": "4.4.1",
-    "chai-http": "4.4.0",
+    "chai-http": "5.1.2",
     "cors": "2.8.5",
     "dotenv": "14.3.2",
     "express": "5.0.0-beta.1",
-    "mocha": "9.2.2"
+    "mocha": "11.0.1"
   },
   "repository": {
     "type": "git",
